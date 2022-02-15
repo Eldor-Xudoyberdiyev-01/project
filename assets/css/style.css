@@ -281,7 +281,7 @@ footer .inp li{
 }
 footer .icon li a{
     color: #303030;
-    font-size: 30px;
+    font-size: 20px;
     transition: 300ms;
 
 }
@@ -298,6 +298,11 @@ footer .icon li{
     width: 40px;
     height: 40px;
     transition: 400ms;
+}
+footer .icon{
+    width: 250px;
+    display: flex;
+    justify-content: space-between;
 }
 .footer_box{
   padding-top: 250px;
